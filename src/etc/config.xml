@@ -17,6 +17,7 @@
             <cleanup>
                 <disable_company>1</disable_company>
                 <disable_telephone>0</disable_telephone>
+                <disable_gender>0</disable_gender>
                 <disable_header>0</disable_header>
                 <disable_footer>0</disable_footer>
                 <disable_copyright>0</disable_copyright>
@@ -30,6 +31,7 @@
                 <shipping_validate_delay>500</shipping_validate_delay>
             </shipping>
             <field_order>
+                <gender>10</gender>
                 <firstname>20</firstname>
                 <middlename>30</middlename>
                 <lastname>40</lastname>
